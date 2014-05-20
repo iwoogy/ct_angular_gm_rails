@@ -1,0 +1,10 @@
+---
+module:
+  name: "AngularGM"
+uis:
+  - name: gm-map
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
